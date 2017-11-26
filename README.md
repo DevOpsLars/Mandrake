@@ -1,2 +1,2 @@
 # Mandrake
-DevOps is Pure Magic
+DevOps is Magic
