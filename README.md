@@ -1,2 +1,2 @@
 # Mandrake
-DevOps is like Magicx
+DevOps is like MagicX
